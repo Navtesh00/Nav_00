@@ -1,3 +1,3 @@
 # Nav_00
-This is my First repositery
+This is my First repositery.
 Author - Navtesh Gophane
